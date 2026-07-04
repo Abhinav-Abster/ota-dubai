@@ -1,1 +1,7 @@
-#changelogs
+# changelogs
+Lunaris 3.12 - Dubai (Moto Edge 30)
+=====================================
+Date: 2026-07-04
+- Improved battery life
+- Added OTA Support
+- Misc stability fixes
