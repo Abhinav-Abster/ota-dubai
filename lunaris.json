@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1783333904,
+      "datetime": 1785003747,
       "filename": "Lunaris-3.12-VANILLA-20250703-dubai.zip",
-      "id": "ded8e9baf6b709ee28cd588b3892f977ab631e503c689ddded48aec06746b38c",
+      "id": "aedbc32f809ae599da3c01c3ca9103faede067132db7acb733411e002ec0bc57",
       "romtype": "UNOFFICIAL",
-      "size": 2789573496,
-      "url": "https://sourceforge.net/projects/lunaris-dubai/files/lunaris-dubai/LunarisAOSP-v3.12/Lunaris-AOSP-dubai-Community-3.12-GMS-2026070609.zip/download",
+      "size": 2793250723,
+      "url": "https://sourceforge.net/projects/lunaris-dubai/files/lunaris-dubai/LunarisAOSP-v3.12/Lunaris-AOSP-dubai-Community-3.12-GMS-2026072514.zip/download",
       "version": "3.12",
       "changelog": "https://raw.githubusercontent.com/Abhinav-Abster/ota-dubai/refs/heads/main/changelog_lunaris.txt"
     }
