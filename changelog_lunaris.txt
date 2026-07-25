@@ -1,7 +1,8 @@
 # changelogs
 Lunaris 3.12 - Dubai (Moto Edge 30)
 =====================================
-Date: 2026-07-04
+Date: 2026-07-25
 - Improved battery life
+- Fix Audio
 - Added OTA Support
 - Misc stability fixes
